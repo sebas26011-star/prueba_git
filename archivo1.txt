@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 linea 1 modificada en v3
+=======
+linea 1 fusionada para v7
+>>>>>>> rama4
 linea 2
 linea 3
 linea 4
