@@ -1,4 +1,4 @@
-linea 1
+linea 1 modificada en v6 que generará conclicto
 linea 2
 linea 3
 linea 4
